@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.aea59a1d.chunk.css",
+    "main.js": "/home/static/js/main.f3b76cc7.chunk.js",
+    "main.js.map": "/home/static/js/main.f3b76cc7.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.5825628b.chunk.js": "/home/static/js/2.5825628b.chunk.js",
+    "static/js/2.5825628b.chunk.js.map": "/home/static/js/2.5825628b.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.2bac50b8cb1aa4b04fc4316bc576f119.js": "/home/precache-manifest.2bac50b8cb1aa4b04fc4316bc576f119.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.aea59a1d.chunk.css.map": "/home/static/css/main.aea59a1d.chunk.css.map",
+    "static/js/2.5825628b.chunk.js.LICENSE.txt": "/home/static/js/2.5825628b.chunk.js.LICENSE.txt",
+    "static/media/Imad El Ayoubi.pdf": "/home/static/media/Imad El Ayoubi.81298fa5.pdf",
+    "static/media/resume.png": "/home/static/media/resume.3d2dd1bd.png",
+    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.5825628b.chunk.js",
+    "static/css/main.aea59a1d.chunk.css",
+    "static/js/main.f3b76cc7.chunk.js"
+  ]
+}
